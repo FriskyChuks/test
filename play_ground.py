@@ -9,3 +9,6 @@ def greet(person):
 
 def sum_numbers(num1, num2):
     return num1 + num2
+
+def get_num(n):
+    print(n)
